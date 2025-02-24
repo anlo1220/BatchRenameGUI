@@ -22,17 +22,17 @@
 ---
 
 ## 🛠 **安裝與執行**
-### **1⃣ 安裝 Python**
+### **1 安裝 Python**
 請確保已安裝 **Python 3.x**，可前往 [Python 官方網站](https://www.python.org/) 下載並安裝。
 
-### **2⃣ 安裝必要套件**
+### **2 安裝必要套件**
 打開端末機（Windows 用戶請使用 `cmd`），並執行：
 ```sh
 pip install tk
 ```
 `tkinter` 是內建於 Python 的 GUI 套件，但某些環境可能需要手動安裝。
 
-### **3⃣ 執行程式**
+### **3 執行程式**
 下載程式碼後，進入該資料夾，執行：
 ```sh
 python rename_gui.py
